@@ -11,7 +11,7 @@ Tecnologias utilizadas:
  - envio de e-mails semanais automatizado com a lista dos confirmados da semana
  - integração com o ReCapcha
 
- A aplicação está online e hospedada ho heroku, caso queira acessar -> bit.ly/comunidadeatos 
+ A aplicação está online e hospedada no heroku, caso queira acessar -> bit.ly/comunidadeatos 
   
   *O projeto foi editado para omitir alguns dados sensíveis. Esse é somente o back- end, o front está em -> https://github.com/guiasaph/comunidadeatos*
   
